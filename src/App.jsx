@@ -51,8 +51,7 @@ o	Se utiliza un campo de tipo ENUM (pendiente, en_progreso, completado, omitido)
       <section className="mb-8">
         <h2 className="text-2xl font-semibold mb-2">Modelo Entidad-Relación</h2>
         <p>
-          Aquí se incluye el diagrama ER del sistema. (Puedes reemplazar esta imagen
-          con tu diagrama exportado desde pgAdmin o dbdiagram.io).
+          Aquí se incluye el diagrama ER del sistema.
         </p>
         <img src="/Untitled.png" alt="Modelo ER" className="border rounded  width={100} height={50} " />
       </section>
