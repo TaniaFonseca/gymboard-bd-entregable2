@@ -182,7 +182,7 @@ DELETE FROM ejercicios WHERE id_ejercicio = 7;`}
 
       {/* Footer */}
       <footer className="mt-10 text-sm text-gray-500">
-        <p>Desplegado en Render: <a href="#" className="text-blue-600">[Link aquí]</a></p>
+        <p>Desplegado en Render: <a href="#" className="text-blue-600">[postgresql://bootcampuser:pnQA5lYkLlIzb605ge7QyODOWQ4k5hzk@dpg-d2ihc0vdiees738c6bvg-a.ohio-postgres.render.com/bootcamp_nm87]</a></p>
       </footer>
     </div>
   );
